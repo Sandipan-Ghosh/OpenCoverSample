@@ -1,0 +1,17 @@
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\xunit.runner.visualstudio.testadapter.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\xunit.runner.reporters.net452.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\xunit.runner.utility.net452.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\xunit.abstractions.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\Sample.API.Test.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\Sample.API.Test.pdb
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\xunit.assert.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\xunit.core.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\xunit.execution.desktop.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\Sample.API.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\bin\Debug\net461\Sample.API.pdb
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\obj\Debug\net461\Sample.API.Test.csprojResolveAssemblyReference.cache
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\obj\Debug\net461\Sample.API.Test.csproj.CoreCompileInputs.cache
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\obj\Debug\net461\Sample.API.Test.AssemblyInfoInputs.cache
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\obj\Debug\net461\Sample.API.Test.AssemblyInfo.cs
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\obj\Debug\net461\Sample.API.Test.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API.Test\obj\Debug\net461\Sample.API.Test.pdb

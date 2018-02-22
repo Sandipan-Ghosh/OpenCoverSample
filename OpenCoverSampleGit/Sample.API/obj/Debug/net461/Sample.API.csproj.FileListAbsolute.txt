@@ -1,0 +1,8 @@
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\bin\Debug\net461\Sample.API.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\bin\Debug\net461\Sample.API.pdb
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\obj\Debug\net461\Sample.API.csprojResolveAssemblyReference.cache
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\obj\Debug\net461\Sample.API.csproj.CoreCompileInputs.cache
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\obj\Debug\net461\Sample.API.AssemblyInfoInputs.cache
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\obj\Debug\net461\Sample.API.AssemblyInfo.cs
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\obj\Debug\net461\Sample.API.dll
+D:\OpenCoverSample\OpenCoverSampleGit\Sample.API\obj\Debug\net461\Sample.API.pdb
